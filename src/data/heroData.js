@@ -1,0 +1,1 @@
+export const heroData = { eyebrow:'GLOBAL EXPEDITIONS · EST. WILD', title:'Go Where the Trail Ends', description:'Guided expeditions to wild peaks, hidden coastlines, and forests few ever reach.', cta:'Find your next hike', image:'https://framerusercontent.com/images/PnKFFZTDtprKUgpnJfcXRmdKbw.png?height=941&width=1672' }

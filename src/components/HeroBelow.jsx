@@ -1,0 +1,4 @@
+import { Link } from 'react-router-dom'
+export default function HeroBelow() {
+  return <section id="about" className="bg-[#f4f3ec] px-5 py-24 sm:px-8 lg:px-12 lg:py-32"><div className="mx-auto grid max-w-[1440px] gap-10 lg:grid-cols-[1.2fr_.8fr] lg:items-end"><div><p className="text-xs font-semibold uppercase tracking-[.25em] text-[#162018]/45">Who we are</p><h2 className="mt-4 max-w-4xl text-5xl font-medium leading-[.9] tracking-[-.06em] sm:text-7xl">Uncover the Stories Hidden in Every Landscape</h2></div><div><p className="max-w-lg text-lg leading-8 text-[#162018]/65">Small groups, expert local guides, and routes most people never find on their own.</p><Link to="/hikes" className="mt-7 inline-flex rounded-full bg-[#162018] px-6 py-3 text-sm font-semibold text-white">Explore hikes ↗</Link></div></div></section>
+}
